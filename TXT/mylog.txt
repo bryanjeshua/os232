@@ -6,6 +6,11 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
+ 
+ZCZC W00 10 L99 Other (Take A Bath)
+ZCZC W00 120 L88 Workout/Sport/Exercise/ETC.
+ZCZC W00 120 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W00 240 L70 Studying for other courses.
 ZCZC W00 30 L03 GitHub and git related, including commit, push, pull
 ZCZC W00 60 L32 YouTube: watching OS related topics, etc.
 ZCZC W00 02 L32L41 TXT/mylog.txt related.
