@@ -20,5 +20,13 @@ ZCZC W00 120 L82 Reading Book (paper or online)
 ZCZC W00 60 L10 Assignment #00
 ZCZC W00 2940 L84 Relax, Rest, Nap, and Sleep
 ZCZC W00 120 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
-ZCZC WOO 600 L70 Studying for other courses.
+ZCZC W01 600 L70 Studying for other courses.
 ZCZC W00 420 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W01 570 L70 Studying for other courses.
+ZCZC W01 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W01 60 L05 Quiz related including studying
+ZCZC W01 20 L03 GitHub and git related, including commit, push, pull
+ZCZC W01 05 L32L41 TXT/mylog.txt related.
+ZCZC W01 70 L11 Assignment #01
+ZCZC W01 25 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W01 15 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
