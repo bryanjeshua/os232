@@ -1,11 +1,3 @@
-# ##########################################
-# https://osp4diss.vlsm.org/ETC/logCodes.txt
-# ##########################################
-#
-# Log Format
-# ZCZC WEEK# MINUTES LogCode Description
-# LogCode + Description List
-
 ZCZC W01 600 L70 Studying for other courses.
 ZCZC W01 420 L87 Breakfast/Lunch/Dinner/Snake
 ZCZC W01 570 L70 Studying for other courses.
