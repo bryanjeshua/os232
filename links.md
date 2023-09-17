@@ -12,3 +12,7 @@ As a medium-duration type of video, Crash Course successfully covers the topics 
 ### [Regular Expressions - Enough to be Dangerous](https://www.youtube.com/watch?v=bgBWp9EIlMM&ab_channel=EngineerMan)
 Regular Expressions are great tools to process many kinds of text files. Through using Debian, I try to understand and utilize this feature, and this video helps a lot in understanding that.
 ## WEEK 02
+### [Regular Expressions (Regex)](https://www3.ntu.edu.sg/home/ehchua/programming/howto/Regexe.html)
+This website primarily focuses on regular expressions, making it an excellent platform for learning and comprehending related topics. Containing several examples, it is much easier to understand Regex through this website.
+### [Operating System Tutorial](https://www.javatpoint.com/operating-system)
+This website provides a general overview of operating systems. It consists of several important topics that enhance understanding of the subject..
