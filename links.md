@@ -18,3 +18,9 @@ This website primarily focuses on regular expressions, making it an excellent pl
 This website provides a general overview of operating systems. It consists of several important topics that enhance understanding of the subject.
 ### [A tutorial introduction to Git](https://git-scm.com/docs/gittutorial)
 Containing several important syntax elements for operating Git, this website serves as a great medium for understanding such topics. It is simple and straight to the point, allowing us to enhance our knowledge.
+### (An Introduction to Cyber Security Basics for Beginner)[https://geekflare.com/understanding-cybersecurity/]
+This link explains the basics and fundamental concepts of cybersecurity. As a beginner, I believe what makes this link interesting is the simple choice of words used to communicate the idea of cybersecurity.
+### (Bash Scripting Tutorial – Linux Shell Script and Command Line for Beginners)[https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/]
+This website contains a summarization of bash scripting. It enables the reader to try the commands introduced by providing some examples. I find this link interesting because it explains complex concepts in a simple manner and allows us to delve deeper into the material through examples.
+### (THE 12 MOST COMMON TYPES OF MALWARE)[https://www.crowdstrike.com/cybersecurity-101/malware/types-of-malware/]
+This link explains the most common types of malware. What makes it interesting is that they summarize all the types of malware that will be explained before the paragraph, so that readers can get the general idea.
