@@ -1,3 +1,14 @@
+ZCZC W03 420 L87 Breakfast/Lunch/Dinner
+ZCZC W03 550 L70 Studying for other courses.
+ZCZC W03 05 L41 TXT/mylog.txt related.
+ZCZC W03 2940 L84 Relax, Rest, Nap, and Sleep
+ZCZC W03 23 L03 GitHub and git related, including commit, push, pull
+ZCZC W03 2 L23 Bash, Regex, SED, AWK.
+ZCZC W03 30 L08 OS Chat related (WA, LIME, Telegram, Signal) with Friend
+ZCZC W03 60 L05 Studying for OS Quiz
+ZCZC W03 600 L70 Studying for other courses.
+ZCZC W03 100 L13 Assignment #03
+ZCZC W03 100 L32 YouTube: watching OS related topics, etc.
 ZCZC W02 2940 L84 Relax, Rest, Nap, and Sleep
 ZCZC W02 100 L88 Workout/Sport/Exercise/ETC.
 ZCZC W02 120 L32 YouTube: watching OS related topics, etc.
