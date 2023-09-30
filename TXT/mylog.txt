@@ -1,3 +1,13 @@
+ZCZC W04 10 L41 TXT/mylog.txt related.
+ZCZC W04 2940 L84 Relax, Rest, Nap, and Sleep
+ZCZC W04 38 L03 GitHub and git related, including commit, push, pull
+ZCZC W04 7 L23 Bash, Regex, SED, AWK.
+ZCZC W04 100 L14 Assignment #03
+ZCZC W04 420 L87 Breakfast/Lunch/Dinner
+ZCZC W04 550 L70 Studying for other courses.
+ZCZC W04 22 L08 OS Chat related (WA, LIME, Telegram, Signal) with Friend
+ZCZC W04 10 L05 Studying for OS Quiz
+ZCZC W04 600 L70 Studying for other courses.
 ZCZC W03 420 L87 Breakfast/Lunch/Dinner
 ZCZC W03 550 L70 Studying for other courses.
 ZCZC W03 05 L41 TXT/mylog.txt related.
