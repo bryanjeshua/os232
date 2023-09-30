@@ -39,3 +39,10 @@ The video talks about how computers keep and manage files. It tells us that file
 This video is all about the different types of file systems used in Windows, like FAT32, exFAT, and NTFS. It's super cool because it explains how each file system works and why you might choose one over the others. It also talks about stuff like compatibility and file size limits, so you'll know which one to use for your computer or flash drive.
 ### [File System Concept](https://www.youtube.com/watch?v=mzUyMy7Ihk0)
 This video delves into the concept of file systems, which are essential for organizing and accessing data on computers. What makes it interesting is how it breaks down complex abstractions like files, filenames, and directories into understandable terms. It also explores the architecture of file systems, offering insights into how they function and are optimized.
+## WEEK 04
+### [The Basics of C Programming](https://computer.howstuffworks.com/c.htm)
+This link mainly talks about fundamentals of C programming. It is a comprehensive source to learn about C language.
+### [History of C Language](https://www.javatpoint.com/history-of-c-language#:~:text=C%20programming%20language%20was%20developed,as%20B%2C%20BCPL%2C%20etc.)
+This link talks about the history of C language. It is a funfact that nice to know, we could apply the wisdom we get from the writings.
+### [The Development of the C Language](https://www.bell-labs.com/usr/dmr/www/chist.html)
+This link talks about the development of the C language. It is an eye-opening writing that shows the journey of C.
