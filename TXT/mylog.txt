@@ -1,3 +1,11 @@
+ZCZC W05 25 L03 GitHub and git related, including commit, push, pull
+ZCZC W05 10 L41 TXT/mylog.txt related.
+ZCZC W05 420 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W05 30 L05 Quiz related including studying
+ZCZC W05 80 L15 Assignment #05
+ZCZC W05 15 L62 Backup Virtual Debian Guest
+ZCZC W05 570 L70 Studying for other courses.
+ZCZC W05 30 L32 YouTube: watching OS related topics, etc.
 ZCZC W04 10 L41 TXT/mylog.txt related.
 ZCZC W04 2940 L84 Relax, Rest, Nap, and Sleep
 ZCZC W04 38 L03 GitHub and git related, including commit, push, pull
