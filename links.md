@@ -46,3 +46,10 @@ This link mainly talks about fundamentals of C programming. It is a comprehensiv
 This link talks about the history of C language. It is a funfact that nice to know, we could apply the wisdom we get from the writings.
 ### [The Development of the C Language](https://www.bell-labs.com/usr/dmr/www/chist.html)
 This link talks about the development of the C language. It is an eye-opening writing that shows the journey of C.
+## WEEK 05
+### [Page Table Entries in Page Table](https://www.geeksforgeeks.org/page-table-entries-in-page-table/)
+This link talks about page table. I love this link cause it is generally easy to comprehand.
+### [Virtual Memory Overview](https://courses.cs.washington.edu/courses/cse351/19sp/lectures/23/code/vm_overview.pdf)
+This link contains the overview of virtual memory. This link is easy to understand.
+### [How is Virtual Memory Translated to Physical Memory?]([https://courses.cs.washington.edu/courses/cse351/19sp/lectures/23/code/vm_overview.pdf](https://blogs.vmware.com/vsphere/2020/03/how-is-virtual-memory-translated-to-physical-memory.html)https://blogs.vmware.com/vsphere/2020/03/how-is-virtual-memory-translated-to-physical-memory.html)
+This link consists of several points to translate virtual memory to physical memory. It is easy to read from the links.
