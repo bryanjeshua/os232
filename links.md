@@ -53,3 +53,10 @@ This link talks about page table. I love this link cause it is generally easy to
 This link contains the overview of virtual memory. This link is easy to understand.
 ### [How is Virtual Memory Translated to Physical Memory?](https://courses.cs.washington.edu/courses/cse351/19sp/lectures/23/code/vm_overview.pdf](https://blogs.vmware.com/vsphere/2020/03/how-is-virtual-memory-translated-to-physical-memory.html)https://blogs.vmware.com/vsphere/2020/03/how-is-virtual-memory-translated-to-physical-memory.html)
 This link consists of several points to translate virtual memory to physical memory. It is easy to read from the links.
+## WEEK 06
+### [Fork System Call in Operating System](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/)
+This link explains fork in through a simple way. It's easy to grasp such a complex topic by reading this link.
+### [Fork() System Call](https://www.codingninjas.com/studio/library/fork-system-call)
+Explaining fork() in system call, this link delve deep into the topic really well. I enjoy reading it.
+### [Fork() in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/)
+This link shows a comprehensive explanation of fork. I can understand what fork is easily just by reading this link.
