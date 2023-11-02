@@ -1,2 +1,4 @@
-# os232
-os232
+# OS232
+
+[LINKS](links.md) || [LOG](TXT/mylog.txt) || [GitHub](https://github.com/bryanjeshua/os232/) ||
+
