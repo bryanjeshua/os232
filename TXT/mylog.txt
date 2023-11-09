@@ -1,3 +1,11 @@
+ZCZC W07 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W07 410 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W07 65 L05 Quiz related including studying
+ZCZC W07 20 L41 TXT/mylog.txt related.
+ZCZC W07 20 L62 Backup Virtual Debian Guest
+ZCZC W07 560 L70 Studying for other courses.
+ZCZC W07 80 L17 Assignment #07
+ZCZC W07 20 L03 GitHub and git related, including commit, push, pull
 ZCZC W06 410 L87 Breakfast/Lunch/Dinner/Snake
 ZCZC W06 35 L05 Quiz related including studying
 ZCZC W06 75 L16 Assignment #06
