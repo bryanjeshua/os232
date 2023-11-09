@@ -60,3 +60,10 @@ This link explains fork in through a simple way. It's easy to grasp such a compl
 Explaining fork() in system call, this link delve deep into the topic really well. I enjoy reading it.
 ### [Fork() in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/)
 This link shows a comprehensive explanation of fork. I can understand what fork is easily just by reading this link.
+## WEEK 07
+### [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+I think this link sums up the whole concept of synchronization in a very good manner. I will continue my readings on this topic more.
+### [What is Process Synchronization in Operating System (OS)?](https://www.knowledgehut.com/blog/web-development/process-synchronization-in-os)
+This link states that it is necessary for a multi-process system where several processes coexist and concurrently attempt to access the same shared resource or piece of data. A good opening to introduce the concept.
+### [Process Synchronization in OS (Operating System)](https://www.javatpoint.com/os-process-synchronization-introduction)
+This link states that when two or more process cooperates with each other, their order of execution must be preserved otherwise there can be conflicts in their execution and inappropriate outputs can be produced. It is a good start to understand the whole concept. It is a good source to read.
