@@ -67,3 +67,10 @@ I think this link sums up the whole concept of synchronization in a very good ma
 This link states that it is necessary for a multi-process system where several processes coexist and concurrently attempt to access the same shared resource or piece of data. A good opening to introduce the concept.
 ### [Process Synchronization in OS (Operating System)](https://www.javatpoint.com/os-process-synchronization-introduction)
 This link states that when two or more process cooperates with each other, their order of execution must be preserved otherwise there can be conflicts in their execution and inappropriate outputs can be produced. It is a good start to understand the whole concept. It is a good source to read.
+## WEEK 08
+### [Linux From Scratch](https://en.wikipedia.org/wiki/Linux_From_Scratch)
+This links talk general concept of linux from scratch. It is totally great source to read this due to the simple language it uses.
+### [Build LFS Linux From Scratch tutorial part one - January 2023 - 30894961](https://www.youtube.com/watch?v=mnlPUjd7LwQ)
+The video gives tutorial how to build linux from scratch. If somebody wants to build it, I think it is a good source!
+### [What Is Linux LFS (Linux from Scratch)](https://www.alibabacloud.com/blog/what-is-linux-lfs-linux-from-scratch_600026)
+This link talks about LFS project in general. If somebody is very unfamiliar with LFS, it is a good link to start.
