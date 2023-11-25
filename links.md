@@ -77,8 +77,7 @@ This link talks about LFS project in general. If somebody is very unfamiliar wit
 ## WEEK 09
 ### [Linus Torvalds](https://www.britannica.com/biography/Linus-Torvalds)
 It is a good link to know Linus Torvalds. He is a great computer scientist who found linux.
-### [
-How Bill Gates Started Microsoft: From Harvard Dropout To Tech Giant](https://sybershel.com/how-bill-gates-started-microsoft/)
+### [How Bill Gates Started Microsoft: From Harvard Dropout To Tech Giant](https://sybershel.com/how-bill-gates-started-microsoft/)
 The link is a resource to know a general story behind microsoft. It is a great source to read for fun.
 ### [Disk Management in Operating System](https://www.geeksforgeeks.org/disk-management-in-operating-system/)
 This link talk about disk management. It is a complete source to know the deep concept of it in operating system.
